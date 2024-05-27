@@ -1,4 +1,4 @@
-# Airflow on Kubernetes를 통한 AWS 클라우드 인프라의 이상 탐지 시스템 구축
+# Airflow on Kubernetes를 통한 AWS 클라우드 인프라 이상 탐지 시스템 구축
 
 ## 1. 기본 인프라 및 도구
 
