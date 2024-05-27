@@ -70,3 +70,13 @@
 - **데이터 전처리 DAG**: S3에 저장된 데이터를 전처리하여 분석용 데이터로 변환하는 DAG
 - **이상 탐지 DAG**: 전처리된 데이터를 이상 탐지 알고리즘에 적용하고 결과를 저장하는 DAG
 - **등**
+
+## 공식문서
+
+- [Kubernetes Documentation](https://kubernetes.io/docs/)
+- [Terraform AWS Provider](https://registry.terraform.io/providers/hashicorp/aws/latest/docs)
+- [Apache Airflow Documentation](https://airflow.apache.org/docs/)
+- [AWS EKS Documentation](https://docs.aws.amazon.com/eks/latest/userguide/what-is-eks.html)
+- [Prometheus & Grafana Setup](https://prometheus.io/docs/visualization/grafana/)
+- [ELK Stack Documentation](https://www.elastic.co/what-is/elk-stack)
+- [AWS CloudWatch Documentation](https://docs.aws.amazon.com/cloudwatch/)
