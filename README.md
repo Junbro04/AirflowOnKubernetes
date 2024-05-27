@@ -71,7 +71,7 @@
 - **이상 탐지 DAG**: 전처리된 데이터를 이상 탐지 알고리즘에 적용하고 결과를 저장하는 DAG
 - **등**
 
-## 공식문서
+## References
 
 - [Kubernetes Documentation](https://kubernetes.io/docs/)
 - [Terraform AWS Provider](https://registry.terraform.io/providers/hashicorp/aws/latest/docs)
@@ -80,3 +80,4 @@
 - [Prometheus & Grafana Setup](https://prometheus.io/docs/visualization/grafana/)
 - [ELK Stack Documentation](https://www.elastic.co/what-is/elk-stack)
 - [AWS CloudWatch Documentation](https://docs.aws.amazon.com/cloudwatch/)
+- [Helm Documentation](https://helm.sh/docs/)
