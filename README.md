@@ -1,1 +1,1 @@
-# DataPipelineK8s
+# Airflow를 활용하여 k8s 환경의 데이터 파이프라인 생성
