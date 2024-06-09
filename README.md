@@ -1,5 +1,7 @@
 # Airflow on Kubernetes를 통한 AWS 클라우드 인프라 이상 탐지 시스템 구축
 
+### 과제는 블로그에 작성하도록 하겠습니다.
+
 ## 1. 기본 인프라 및 도구
 
 ### 1.1 Kubernetes (K8s)
